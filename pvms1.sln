@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvms1", "pvms1\pvms1.csproj", "{6C392A7E-B539-4F81-AA0C-10960E8645D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvmsentity.layer", "pvmsentity.layer\pvmsentity.layer.csproj", "{DA1D448D-76CB-4771-8A79-D8096D805ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvmsbus.layer", "pvmsbus.layer\pvmsbus.layer.csproj", "{A48FF45C-EE85-4C33-B662-6FA9F6D498DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvmsdal.layer", "pvmsdal.layer\pvmsdal.layer.csproj", "{22FE4A95-C770-40A4-A910-FE876C30C262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C392A7E-B539-4F81-AA0C-10960E8645D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C392A7E-B539-4F81-AA0C-10960E8645D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C392A7E-B539-4F81-AA0C-10960E8645D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C392A7E-B539-4F81-AA0C-10960E8645D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1D448D-76CB-4771-8A79-D8096D805ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1D448D-76CB-4771-8A79-D8096D805ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1D448D-76CB-4771-8A79-D8096D805ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1D448D-76CB-4771-8A79-D8096D805ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48FF45C-EE85-4C33-B662-6FA9F6D498DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48FF45C-EE85-4C33-B662-6FA9F6D498DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48FF45C-EE85-4C33-B662-6FA9F6D498DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48FF45C-EE85-4C33-B662-6FA9F6D498DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FE4A95-C770-40A4-A910-FE876C30C262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FE4A95-C770-40A4-A910-FE876C30C262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FE4A95-C770-40A4-A910-FE876C30C262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FE4A95-C770-40A4-A910-FE876C30C262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
