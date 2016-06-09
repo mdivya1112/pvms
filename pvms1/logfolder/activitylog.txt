@@ -1,0 +1,565 @@
+﻿FULL ACTIVITY LOG
+-----------------------------------------------------------
+Log in Time: 01/06/2016 12:34:02 PM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Logout Time: 01/06/2016 12:34:04 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 01/06/2016 03:08:20 PM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Logout Time: 01/06/2016 03:08:24 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 03/06/2016 11:55:51 AM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Logout Time: 03/06/2016 11:56:44 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 03/06/2016 11:57:02 AM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Logout Time: 03/06/2016 11:58:17 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 03/06/2016 12:24:29 PM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in visa cancelled  logged out 
+Client IP: 127.0.0.1
+Logout Time: 03/06/2016 12:26:24 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 03/06/2016 02:14:16 PM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in visa cancelled  logged out 
+Client IP: 127.0.0.1
+Logout Time: 03/06/2016 02:18:55 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 03/06/2016 02:22:29 PM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in visa cancelled  logged out 
+Client IP: 127.0.0.1
+Logout Time: 03/06/2016 02:24:38 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 03/06/2016 03:26:18 PM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in visa cancelled  logged out 
+Client IP: 127.0.0.1
+Logout Time: 03/06/2016 03:27:20 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 04/06/2016 10:09:24 AM
+-----------------------------------------------------------
+UserID: PASS-0000
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.113 PC174618
+Logout Time: 04/06/2016 10:09:38 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time: 6/7/2016 12:15:36 PM
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity:  user registered  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 12:15:57 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 03:13:24 PM
+-----------------------------------------------------------
+UserID: PASS-0013
+userreg time:none
+passport apply time:none
+visa apply time: 6/7/2016 3:17:03 PM
+passport renew time:none
+cancel visa time: none
+Activity: logged in Visa applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 03:17:34 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 03:23:53 PM
+-----------------------------------------------------------
+UserID: PASS-0014
+userreg time:none
+passport apply time: 6/7/2016 3:24:13 PM
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in passport applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 03:27:10 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 03:34:08 PM
+-----------------------------------------------------------
+UserID: PASS-0014
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 03:35:14 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 03:57:06 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time: 6/7/2016 3:57:39 PM
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in passport applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 04:02:00 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+UserID: PASS-0015
+userreg time: 6/7/2016 4:20:39 PM
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity:  user registered  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 04:21:03 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 04:31:20 PM
+-----------------------------------------------------------
+UserID: PASS-0015
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 04:32:25 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 04:32:58 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 04:38:45 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 04:39:06 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time: 6/7/2016 4:40:44 PM
+passport renew time:none
+cancel visa time: 6/7/2016 4:44:33 PM
+Activity: logged in Visa applied  visa cancelled  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 04:44:51 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 05:21:05 PM
+-----------------------------------------------------------
+UserID: PASS-0015
+userreg time:none
+passport apply time:none
+visa apply time: 6/7/2016 5:22:17 PM
+passport renew time:none
+cancel visa time: none
+Activity: logged in Visa applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 05:22:41 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 05:25:03 PM
+-----------------------------------------------------------
+UserID: PASS-0015
+userreg time:none
+passport apply time:none
+visa apply time: 6/7/2016 5:25:25 PM
+passport renew time:none
+cancel visa time: none
+Activity: logged in Visa applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 05:26:08 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 07/06/2016 05:28:28 PM
+-----------------------------------------------------------
+UserID: PASS-0015
+userreg time:none
+passport apply time:none
+visa apply time: 6/7/2016 5:28:43 PM
+passport renew time:none
+cancel visa time: none
+Activity: logged in Visa applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 07/06/2016 05:29:17 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 10:20:53 AM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 08/06/2016 10:22:16 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 10:25:43 AM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 08/06/2016 10:26:19 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 10:26:32 AM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time: 08/06/2016 10:26:58 AM
+cancel visa time: none
+Activity: logged in passport renewed  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17PC174618
+Logout Time: 08/06/2016 10:27:18 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 11:03:40 AM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 11:04:40 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 11:09:12 AM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time: 08/06/2016 11:09:53 AM
+cancel visa time: none
+Activity: logged in passport renewed  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 11:09:58 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 12:41:14 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 12:43:44 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 12:44:19 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time: 08/06/2016 12:45:37 PM
+cancel visa time: none
+Activity: logged in passport renewed  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 12:46:52 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+UserID: PASS-0016
+userreg time: 08/06/2016 12:55:54 PM
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity:  user registered  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 12:56:11 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 02:13:58 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time: 08/06/2016 02:14:56 PM
+passport renew time:none
+cancel visa time: 08/06/2016 02:18:41 PM
+Activity: logged in Visa applied  visa cancelled  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 02:18:54 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 02:29:16 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 02:29:47 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 02:36:05 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time: 08/06/2016 02:36:34 PM
+passport renew time:none
+cancel visa time: none
+Activity: logged in Visa applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 02:37:31 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 02:58:09 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time: 08/06/2016 02:59:11 PM
+passport renew time:none
+cancel visa time: none
+Activity: logged in Visa applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 03:00:02 PM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 08/06/2016 03:09:57 PM
+-----------------------------------------------------------
+UserID: VISA-0005
+userreg time:none
+passport apply time:none
+visa apply time: 08/06/2016 03:10:43 PM
+passport renew time:none
+cancel visa time: none
+Activity: logged in Visa applied  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 08/06/2016 03:10:59 PM
+-----------------------------------------------------------
+
+
+
+-----------------------------------------------------------
+Log in Time: 09/06/2016 10:47:02 AM
+-----------------------------------------------------------
+UserID: PASS-0008
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 09/06/2016 10:47:15 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+UserID: 
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity:  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 09/06/2016 10:48:15 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Log in Time: 09/06/2016 10:48:49 AM
+-----------------------------------------------------------
+UserID: PASS-0008
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity: logged in logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 09/06/2016 10:49:12 AM
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+UserID: 
+userreg time:none
+passport apply time:none
+visa apply time:none
+passport renew time:none
+cancel visa time: none
+Activity:  logged out 
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Logout Time: 09/06/2016 10:49:58 AM
+-----------------------------------------------------------
+

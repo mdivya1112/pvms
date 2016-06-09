@@ -1,0 +1,11 @@
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\bin\pvms1.dll
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\bin\pvms1.pdb
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\obj\Debug\pvms1.dll
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\obj\Debug\pvms1.pdb
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\bin\pvmsbus.layer.dll
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\bin\pvmsentity.layer.dll
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\bin\pvmsbus.layer.pdb
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\bin\pvmsentity.layer.pdb
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\bin\pvmsdal.layer.dll
+C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\bin\pvmsdal.layer.pdb

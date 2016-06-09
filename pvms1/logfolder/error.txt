@@ -1,0 +1,921 @@
+﻿Time: 26/05/2016 05:30:02 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at userreg.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\UserRegister.aspx.cs:line 96
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 26/05/2016 05:51:21 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at forgotpass.Button1_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ForgotPass.aspx.cs:line 37
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 26/05/2016 05:52:55 PM
+-----------------------------------------------------------
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at forgotpass.Button1_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ForgotPass.aspx.cs:line 37
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:13:38 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 55
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:15:56 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 55
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:18:44 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 55
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:30:08 AM
+-----------------------------------------------------------
+Message: The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 56
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:35:01 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 56
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:36:37 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 56
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:40:29 AM
+-----------------------------------------------------------
+Message: The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider, DateTimeStyles style)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 57
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:44:24 AM
+-----------------------------------------------------------
+Message: The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.
+StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider, DateTimeStyles style)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 58
+Source: mscorlib
+TargetSite: System.DateTime ParseExact(System.String, System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 10:52:42 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.DateTime.Parse(String s)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 59
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 11:09:14 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 60
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 11:17:37 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 55
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 11:21:18 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 55
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 11:37:03 AM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at cancelvisa2.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa2.aspx.cs:line 55
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 27/05/2016 04:02:55 PM
+-----------------------------------------------------------
+Message: Violation of PRIMARY KEY constraint 'PK_renew_passport'. Cannot insert duplicate key in object 'dbo.renew_passport'.
+The statement has been terminated.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at pvmsdal.layer.dalpassport.insertrenew(SqlParameter[] k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 196
+   at pvmsbus.layer.buspassport.insertrenewbus(entitypassport eobj1) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 136
+   at passrenew.Button1_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Passportrenewal.aspx.cs:line 102
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 28/05/2016 03:23:05 PM
+-----------------------------------------------------------
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 207
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 143
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 33
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 28/05/2016 03:24:52 PM
+-----------------------------------------------------------
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 207
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 143
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 33
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 28/05/2016 05:41:09 PM
+-----------------------------------------------------------
+Message: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+StackTrace:    at System.Data.SqlClient.SqlConnection.GetOpenConnection(String method)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalvisa.getexpiry2(SqlParameter n) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalvisa.cs:line 244
+   at pvmsbus.layer.busvisa.getexpiry2bus(String y) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\busvisa.cs:line 150
+   at applyvisa1.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyVisa1.aspx.cs:line 34
+Source: System.Data
+TargetSite: System.Data.SqlClient.SqlInternalConnection GetOpenConnection(System.String)
+-----------------------------------------------------------
+
+Time: 28/05/2016 05:43:50 PM
+-----------------------------------------------------------
+Message: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+StackTrace:    at System.Data.SqlClient.SqlConnection.GetOpenConnection(String method)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalvisa.getexpiry2(SqlParameter n) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalvisa.cs:line 244
+   at pvmsbus.layer.busvisa.getexpiry2bus(String y) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\busvisa.cs:line 150
+   at applyvisa1.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyVisa1.aspx.cs:line 34
+Source: System.Data
+TargetSite: System.Data.SqlClient.SqlInternalConnection GetOpenConnection(System.String)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:04:23 PM
+-----------------------------------------------------------
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 221
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 152
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 34
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:05:01 PM
+-----------------------------------------------------------
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 221
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 152
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 34
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:05:17 PM
+-----------------------------------------------------------
+Message: Procedure or function 'checkduplicatevisaid2' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalvisa.checkduplicatevisaid2(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalvisa.cs:line 227
+   at pvmsbus.layer.busvisa.checkduplicatevisaid2bus(String y) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\busvisa.cs:line 149
+   at applyvisa1.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyVisa1.aspx.cs:line 31
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:05:29 PM
+-----------------------------------------------------------
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 221
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 152
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 34
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:13:22 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at userreg.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\UserRegister.aspx.cs:line 96
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:13:53 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at userreg.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\UserRegister.aspx.cs:line 96
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:18:39 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at userreg.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\UserRegister.aspx.cs:line 96
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:20:57 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at userreg.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\UserRegister.aspx.cs:line 96
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:23:54 PM
+-----------------------------------------------------------
+Message: String was not recognized as a valid DateTime.
+StackTrace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at userreg.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\UserRegister.aspx.cs:line 96
+Source: mscorlib
+TargetSite: System.DateTime Parse(System.String, System.Globalization.DateTimeFormatInfo, System.Globalization.DateTimeStyles)
+-----------------------------------------------------------
+
+Time: 30/05/2016 12:41:52 PM
+-----------------------------------------------------------
+Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_renew_passport_apply_passport1". The conflict occurred in database "passport-visa", table "dbo.apply_passport", column 'passport_id'.
+The statement has been terminated.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at pvmsdal.layer.dalpassport.insertrenew(SqlParameter[] k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 209
+   at pvmsbus.layer.buspassport.insertrenewbus(entitypassport eobj1) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 144
+   at passrenew.Button1_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Passportrenewal.aspx.cs:line 111
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 31/05/2016 10:37:48 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at Login._login_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Login.aspx.cs:line 58
+Source: pvms1
+TargetSite: Void _login_Click(System.Object, System.EventArgs)
+-----------------------------------------------------------
+
+Time: 31/05/2016 10:39:54 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at Login._login_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Login.aspx.cs:line 58
+Source: pvms1
+TargetSite: Void _login_Click(System.Object, System.EventArgs)
+-----------------------------------------------------------
+
+Time: 31/05/2016 10:45:23 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at Login._login_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Login.aspx.cs:line 58
+Source: pvms1
+TargetSite: Void _login_Click(System.Object, System.EventArgs)
+-----------------------------------------------------------
+
+Time: 31/05/2016 10:48:16 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at Login._login_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Login.aspx.cs:line 59
+Source: pvms1
+TargetSite: Void _login_Click(System.Object, System.EventArgs)
+-----------------------------------------------------------
+
+Time: 31/05/2016 03:38:34 PM
+-----------------------------------------------------------
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 221
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 152
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 34
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 01/06/2016 12:24:56 PM
+-----------------------------------------------------------
+Message: Could not find a part of the path 'C:\Program Files\Common Files\Microsoft Shared\DevServer\10.0\~\logfolder\login.txt'.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.SetAttributes(String path, FileAttributes fileAttributes)
+   at pvms1.activity.logindet(DateTime t, String s, String s1, String s2) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\activity.cs:line 244
+   at Login._login_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Login.aspx.cs:line 62
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+-----------------------------------------------------------
+
+Time: 03/06/2016 10:37:58 AM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.34 PC174618
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 221
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 152
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 37
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 03/06/2016 12:20:25 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.34 PC174618
+Message: Could not find a part of the path 'C:\Program Files\Common Files\Microsoft Shared\DevServer\10.0\~\logfolder\login.txt'.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.SetAttributes(String path, FileAttributes fileAttributes)
+   at pvms1.activity.cancelvisa(DateTime t, String s, String s1, String s2, String s3, String s4, String s5) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\activity.cs:line 214
+   at _Default.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa1.aspx.cs:line 59
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+-----------------------------------------------------------
+
+Time: 03/06/2016 12:23:15 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.34 PC174618
+Message: Could not find a part of the path 'C:\Program Files\Common Files\Microsoft Shared\DevServer\10.0\~\logfolder\login.txt'.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.SetAttributes(String path, FileAttributes fileAttributes)
+   at pvms1.activity.cancelvisa(DateTime t, String s, String s1, String s2, String s3, String s4, String s5) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\activity.cs:line 214
+   at _Default.Submit_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\cancelvisa1.aspx.cs:line 59
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+-----------------------------------------------------------
+
+Time: 04/06/2016 10:07:04 AM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.113 PC174618
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 221
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 152
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 37
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 04/06/2016 10:07:19 AM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.113 PC174618
+Message: Procedure or function 'checkduplicatevisaid2' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalvisa.checkduplicatevisaid2(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalvisa.cs:line 227
+   at pvmsbus.layer.busvisa.checkduplicatevisaid2bus(String y) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\busvisa.cs:line 149
+   at applyvisa1.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyVisa1.aspx.cs:line 34
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 07/06/2016 11:31:26 AM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Login.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Login.aspx.cs:line 59
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 07/06/2016 11:43:36 AM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Could not find a part of the path 'C:\Program Files\Common Files\Microsoft Shared\DevServer\10.0\~\logfolder\user.txt'.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.SetAttributes(String path, FileAttributes fileAttributes)
+   at pvms1.activity.userdet(DateTime t, String s, String s1, String s2, String s3, String s4) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\activity.cs:line 242
+   at userreg.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\UserRegister.aspx.cs:line 133
+Source: mscorlib
+TargetSite: Void WinIOError(Int32, System.String)
+-----------------------------------------------------------
+
+Time: 07/06/2016 12:04:58 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Violation of PRIMARY KEY constraint 'PK_security_question'. Cannot insert duplicate key in object 'dbo.security_question'.
+The statement has been terminated.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at pvmsdal.layer.daluser.registeruser(SqlParameter[] c) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\daluser.cs:line 52
+   at pvmsbus.layer.bususer.registeruserbus(entityuser eobj) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\bususer.cs:line 47
+   at userreg.Register_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\UserRegister.aspx.cs:line 126
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 07/06/2016 12:26:21 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at ResetPass.Button1_Click(Object sender, EventArgs e) in c:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ResetPass.aspx.cs:line 57
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 07/06/2016 12:41:17 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Procedure or function 'checkduplicatepass' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.checkduplicatepass(SqlParameter l) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 221
+   at pvmsbus.layer.buspassport.checkduplicatepassbus(String k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 152
+   at applypass.Page_Load(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 40
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 07/06/2016 02:52:52 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_apply_passport_state_master". The conflict occurred in database "passport-visa", table "dbo.state_master", column 'state_name'.
+The statement has been terminated.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at pvmsdal.layer.dalpassport.appplypassport(SqlParameter[] d) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 88
+   at pvmsbus.layer.buspassport.applypassportbus(entitypassport eobj1) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 69
+   at applypass.Apply_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 137
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 07/06/2016 03:19:46 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_apply_passport_user_register". The conflict occurred in database "passport-visa", table "dbo.user_register", column 'user_id'.
+The statement has been terminated.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at pvmsdal.layer.dalpassport.appplypassport(SqlParameter[] d) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 88
+   at pvmsbus.layer.buspassport.applypassportbus(entitypassport eobj1) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 69
+   at applypass.Apply_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyPassport.aspx.cs:line 137
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 08/06/2016 10:29:58 AM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Violation of PRIMARY KEY constraint 'PK_renew_passport'. Cannot insert duplicate key in object 'dbo.renew_passport'.
+The statement has been terminated.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at pvmsdal.layer.dalpassport.insertrenew(SqlParameter[] k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 209
+   at pvmsbus.layer.buspassport.insertrenewbus(entitypassport eobj1) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 144
+   at passrenew.Button1_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Passportrenewal.aspx.cs:line 123
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 08/06/2016 10:38:59 AM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Thread was being aborted.
+StackTrace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at passrenew.tb_passno_TextChanged(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Passportrenewal.aspx.cs:line 89
+Source: mscorlib
+TargetSite: Void AbortInternal()
+-----------------------------------------------------------
+
+Time: 08/06/2016 12:43:45 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Procedure or function 'passportlogin' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.passportlogin(SqlParameter[] i) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 168
+   at pvmsbus.layer.buspassport.passportloginbus(String g, String g5) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 125
+   at passrenew.tb_passno_TextChanged(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Passportrenewal.aspx.cs:line 66
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 08/06/2016 12:43:45 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Procedure or function 'passportlogin' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalpassport.passportlogin(SqlParameter[] i) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 168
+   at pvmsbus.layer.buspassport.passportloginbus(String g, String g5) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 125
+   at passrenew.tb_passno_TextChanged(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Passportrenewal.aspx.cs:line 66
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 08/06/2016 12:43:47 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_renew_passport_apply_passport1". The conflict occurred in database "passport-visa", table "dbo.apply_passport", column 'passport_id'.
+The statement has been terminated.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at pvmsdal.layer.dalpassport.insertrenew(SqlParameter[] k) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalpassport.cs:line 209
+   at pvmsbus.layer.buspassport.insertrenewbus(entitypassport eobj1) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\buspassport.cs:line 146
+   at passrenew.Button1_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\Passportrenewal.aspx.cs:line 126
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 08/06/2016 12:57:56 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Procedure or function 'passportlogin' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalvisa.passportlogin(SqlParameter a) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalvisa.cs:line 35
+   at pvmsbus.layer.busvisa.passportloginbus(String e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\busvisa.cs:line 26
+   at applyvisa1.Search_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyVisa1.aspx.cs:line 77
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 08/06/2016 01:00:00 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Procedure or function 'passportlogin' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalvisa.passportlogin(SqlParameter a) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalvisa.cs:line 35
+   at pvmsbus.layer.busvisa.passportloginbus(String e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\busvisa.cs:line 26
+   at applyvisa1.Search_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyVisa1.aspx.cs:line 77
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 08/06/2016 01:59:44 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Procedure or function 'passportlogin' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalvisa.passportlogin(SqlParameter a) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalvisa.cs:line 35
+   at pvmsbus.layer.busvisa.passportloginbus(String e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\busvisa.cs:line 26
+   at applyvisa1.Search_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyVisa1.aspx.cs:line 77
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+
+Time: 08/06/2016 02:06:21 PM
+-----------------------------------------------------------
+Client IP: 127.0.0.1
+Server: 10.229.52.17 PC174618
+Message: Procedure or function 'passportlogin' expects parameter '@user_id', which was not supplied.
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at pvmsdal.layer.dalvisa.passportlogin(SqlParameter a) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsdal.layer\dalvisa.cs:line 35
+   at pvmsbus.layer.busvisa.passportloginbus(String e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvmsbus.layer\busvisa.cs:line 26
+   at applyvisa1.Search_Click(Object sender, EventArgs e) in C:\Users\540143\Documents\web form\apply passport\pvms1\pvms1\ApplyVisa1.aspx.cs:line 77
+Source: .Net SqlClient Data Provider
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+-----------------------------------------------------------
+

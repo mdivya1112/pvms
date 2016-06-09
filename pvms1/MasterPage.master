@@ -1,0 +1,146 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="CSS/mystylesheet.css" rel="stylesheet" type="text/css" />
+    <link href="CSS/StyleSheet.css" rel="stylesheet" type="text/css" />
+     <link href="css_calendar/pikaday.css" rel="stylesheet" type="text/css" />
+    <link href="css_calendar/site.css" rel="stylesheet" type="text/css" />
+    <link href="css_calendar/theme.css" rel="stylesheet" type="text/css" />
+     <script src="pikaday.js" type="text/javascript"></script>
+    <title>PASSPORT VISA MANAGEMENT SYSTEM</title>
+    
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <style>
+    .button
+    {
+        background-color:Black;
+    }
+    .button1
+    {
+        background-color:White;
+    }
+    .resp 
+    {
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+     } 
+    
+    </style>
+  
+
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            height: 362px;
+        }
+        .style3
+        {
+            height: 86px;
+        }
+        .style4
+        {
+            height: 86px;
+            width: 247px;
+        }
+        .style5
+        {
+            width: 247px;
+        }
+                <%--.scrollbar
+       {
+            overflow : auto; /*for horizontal and vertical scroll bars */
+}
+/* or you can set scrolling in x and y direction */
+.scrollbarxy
+{
+overflow-x: auto; /*for horizontal scroll bar */
+overflow-y: auto; /*for vertical scroll bar */
+} --%>
+    </style>
+    <script type="text/javascript">
+          function preventBack() {
+              window.history.forward();
+           <%--   window.history.back();--%>
+          }
+          setTimeout("preventBack()", 0);
+          window.onunload = function () { null };
+    </script>
+
+   
+</head>
+<body >
+
+    <form id="form1" runat="server" >
+    
+    <h2 class="w3-container w3-green">PASSPORT VISA MANAGEMENT SYSTEM<asp:HyperLink ID="LOG_OUT" runat="server" class="w3-display-topright" NavigateUrl="~/Logout.aspx">Log Out</asp:HyperLink>
+    </h2>
+    <div >
+    </div>
+    <nav class="w3-sidenav w3-light-grey">
+    <a class="w3-green" href="Home.aspx">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br />
+  <a href="ApplyPassport.aspx">Apply passport</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <br /> 
+  <a href="ApplyVisa1.aspx">Apply visa</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br /> 
+  <a href="Passportrenewal.aspx">Passport Renewal</a>
+  <br /> 
+  <a href="cancelvisa1.aspx">Cancel visa</a>
+  <br />
+</nav>
+    
+    <table class="style1">
+        <tr>
+            <td class="style4">
+                &nbsp;</td>
+            <td class="style3">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td class="style5">
+       
+               
+                   
+                <br />
+                <br />
+                
+                <br />
+                <br />
+                <br />
+               
+                <br />
+                <br />
+                <br />
+               
+            </td>
+            <td>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+   <%-- <footer class="w3-container w3-teal">
+  
+  <p>copyright @PVMS</p>
+</footer>--%>
+    </form>
+</body >
+</html>
